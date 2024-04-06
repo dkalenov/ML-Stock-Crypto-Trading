@@ -13,7 +13,7 @@ I am studying **Machine Learning for Stock & Crypto Trading**. This course focus
 3) [Principle Component Analysis](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/1_unsupervised-learning/Principle_Component_Analysis.ipynb)(Dimensionality Reduction)
 
 ### Supervised Learning:
-1) [Bitcoin Price Move Prediction](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/Principle_Component_Analysis.ipynbBitcoin_Move_Prediction.ipynb)(test: f1 score 0.67)
+1) [Bitcoin Price Move Prediction](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/Bitcoin_Move_Prediction.ipynb)(test: f1 score 0.67)
 2) [Deep Learning Binary Classification](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/DL_Binary_Classification.ipynb)(acc 0.5, needs improvement)
 3) [Deep Learning Sequential Data](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/DL_Sequential_Data.ipynb)(so far the model demonstrates low predictive ability)
 
