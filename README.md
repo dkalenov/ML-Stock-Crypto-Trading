@@ -5,20 +5,20 @@
 Develop an algorithm utilizing Machine Learning to analyze stock and cryptocurrency markets to gain an edge in trading.
 
 ## Project description 
-I am taking a study on **Machine Learning for Stock & Crypto Trading**. This course focuses on applying Machine Learning techniques to financial data using Python. 
+I am studying **Machine Learning for Stock & Crypto Trading**. This course focuses on applying Machine Learning techniques to financial data using Python. 
 
 ### Unsupervised Learning:
-1) Hidden Markov Model for Market Regimes
-2) Clustering (KMeans, AgglomerativeClustering, DBSCAN)
-3) Principle Component Analysis (Dimensionality Reduction)
+1) [Hidden Markov Model for Market Regimes](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/1_unsupervised-learning/Hidden_Markov_Models_for_Market_Regimes.ipynb)
+2) [Clustering](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/1_unsupervised-learning/Clustering.ipynb)(KMeans, AgglomerativeClustering, DBSCAN)
+3) [Principle Component Analysis](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/1_unsupervised-learning/Principle_Component_Analysis.ipynb)(Dimensionality Reduction)
 
 ### Supervised Learning:
-1) Bitcoin Price Move Prediction (test: f1 score 0.67)
-2) Deep Learning Binary Classification (acc 0.5, needs improvement)
-3) Deep Learning Sequential Data (so far the model demonstrates low predictive ability)
+1) [Bitcoin Price Move Prediction](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/Principle_Component_Analysis.ipynbBitcoin_Move_Prediction.ipynb)(test: f1 score 0.67)
+2) [Deep Learning Binary Classification](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/DL_Binary_Classification.ipynb)(acc 0.5, needs improvement)
+3) [Deep Learning Sequential Data](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/DL_Sequential_Data.ipynb)(so far the model demonstrates low predictive ability)
 
 ### Reinforcement:
-1) Environment Building stage
+1) [Environment Building stage](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_Sine_Wave.ipynb)
 
 
 ## Tasks
