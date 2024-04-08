@@ -18,7 +18,8 @@ I am studying **Machine Learning for Stock & Crypto Trading**. This course focus
 3) [Deep Learning Sequential Data](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/2_supervised-learning/DL_Sequential_Data.ipynb)(so far the model demonstrates low predictive ability)
 
 ### Reinforcement:
-1) [Environment Building stage](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_Sine_Wave.ipynb)
+1) [PPO Sine Wave Agent](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_Sine_Wave.ipynb)
+2) [PPO Sine Wave Agent for Trading AAPL](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_AAPL_Stock.ipynb)
 
 
 ## Tasks
@@ -28,16 +29,15 @@ I am studying **Machine Learning for Stock & Crypto Trading**. This course focus
 4. Utilize statistical methods like Cointegration and Z-score to assess the profitability of pairs trading strategies.
 5. Implement Principal Component Analysis (PCA) to distill useful information from technical indicators for predicting the VIX.
 6. Train XGBOOST models to make future predictions on Bitcoin price data.
-7. Evaluate model performance using metrics such as accuracy, precision, recall, and F1 score on test data.
+7. Evaluate model performance using accuracy, precision, recall, and F1 score metrics on test data.
 8. Develop an AI model to trade using Reinforcement Learning algorithms (PPO).
 9. Test the model on historical data and evaluate its performance.
-10. Set up an error handling system to provide alerts if any issues or errors occur during trading.
+10. Set up an error handling system to provide alerts if issues or errors occur during trading.
 11. Implement additional features such as cryptocurrency volatility analysis to enhance trading strategies.
 12. Fine-tune models and algorithms based on performance feedback to improve trading outcomes.
 
 ## Project Status:
-Implementing a Reinforcement Learning agent for trading.
-Developing an AI model to trade a Simple Sine Wave and then moving on to learning to trade the stocks completely by itself without any prompt for selecting positions.
+Tuning a Reinforcement Learning agent for trading the stocks completely by itself without any prompt for selecting positions.
 
 ## Skills and Tools:
 * Data extraction
