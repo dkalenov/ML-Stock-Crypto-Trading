@@ -19,7 +19,7 @@ I am studying **Machine Learning for Stock & Crypto Trading**. This course focus
 
 ### Reinforcement:
 1) [PPO Sine Wave Agent](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_Sine_Wave.ipynb)
-2) [PPO Sine Wave Agent for Trading AAPL](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_AAPL_Stock.ipynb)
+2) [Agent for Trading AAPL](https://github.com/dkalenov/ML-Stock-Crypto-Trading/blob/3_reinforcement/PPO_AAPL_Stock.ipynb)
 
 
 ## Tasks
