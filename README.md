@@ -37,7 +37,7 @@ I am studying **Machine Learning for Stock & Crypto Trading**. This course focus
 12. Fine-tune models and algorithms based on performance feedback to improve trading outcomes.
 
 ## Project Status:
-Tuning a Reinforcement Learning agent for trading the stocks completely by itself without any prompt for selecting positions.
+Tuning a Reinforcement Learning agent to trade the stocks completely by itself without any prompt for selecting positions.
 
 ## Skills and Tools:
 * Data extraction
